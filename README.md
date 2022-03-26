@@ -1,4 +1,5 @@
-### Hi, I'm Pérycles
+### Hi, I'm Pérycles 👋
+
 
 ## Technologies that I use in my daily
 
