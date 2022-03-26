@@ -19,8 +19,6 @@
                     
 <br> 
 <br> 
-<br> 
-<br> 
 <!--  
  [![Perycles' GitHub stats](https://github-readme-stats.vercel.app/api?username=peryclesjr)](https://github.com/peryclesjr)
   -->
