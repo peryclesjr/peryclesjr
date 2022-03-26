@@ -17,10 +17,10 @@
 <br> 
 <br> 
  
- [![Perycles' GitHub stats](https://github-readme-stats.vercel.app/api?username=peryclesjr)](https://github.com/peryclesjr/github-readme-stats)
+ [![Perycles' GitHub stats](https://github-readme-stats.vercel.app/api?username=peryclesjr)](https://github.com/peryclesjr)
  
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peryclesjr)](https://github.com/peryclesjr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peryclesjr)](https://github.com/peryclesjr)
 
  
  
