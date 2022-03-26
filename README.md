@@ -1,7 +1,7 @@
 ### Hi, I'm Pérycles 👋
 
 ### 🚀 About Me
-#### I'm passionate about development and technologies, and I love studying new things. I love my family and my work.
+#### I'm passionate about development and technologies, and I love studying new things. I love my family and programming.
 
 ## 🛠 Skills
 
